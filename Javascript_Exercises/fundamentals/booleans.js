@@ -33,7 +33,7 @@ console.log(!!(isActive = false))
 console.log('if one value is true into a multiple "OR" the sentence is True')
 console.log(!!('' || null || 0 || 'opa' || 123))
 
-/* */
+/* If a string is empty we return the right side of equal */
 let name = 'Guilherme'
 console.log(name || 'Without name')
 

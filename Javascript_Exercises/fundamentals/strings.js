@@ -11,7 +11,7 @@ console.log(escola.substring(0, 3))//The return here represents chars 0<3, one b
 
 /* Union operation with Strings */
 console.log('Escola '.concat(escola).concat("!"))
-console.log('Escola' + escola + "!")
+console.log('Escola ' + escola + "!")
 
 /* Change a letter to another  */
 console.log(escola.replace(3, 'e'))

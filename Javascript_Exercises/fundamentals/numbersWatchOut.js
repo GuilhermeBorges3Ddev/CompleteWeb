@@ -2,7 +2,13 @@
 console.log(7 / 0) 
 
 //Natural convertion of String to Integer
-console.log("10" / 2) 
+console.log("10" / 2)
+
+//Forcing a concat() operation
+console.log("3" + 2)//Value '32' returned is a String, not a Number
+
+//Here we see the opposite, a String converted in Number
+console.log("3" - 2)
 
 //NaN
 console.log("Show!" * 2)

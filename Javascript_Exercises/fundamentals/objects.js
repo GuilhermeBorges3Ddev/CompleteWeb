@@ -1,4 +1,4 @@
-/* Adding attributes inside the object by key and th respective value */
+/* Adding attributes inside the object by key and the respective value */
 const prod1 = {}
 prod1.nome = 'Celular Ultra Mega'
 prod1.preco = 4998.90

@@ -5,6 +5,7 @@ console.log('-----------------------------')
 
 //Concatenation with template string
 const template = `Olá ${nome}!`
+console.log(template)
 console.log('-----------------------------')
 
 //We'll see the same result, but done in different ways

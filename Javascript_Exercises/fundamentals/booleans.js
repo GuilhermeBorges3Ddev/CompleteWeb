@@ -1,4 +1,4 @@
-/* Returning two trues in different ways */
+/* Returning false and true using the same let */
 let isActive = false
 console.log(isActive)
 isActive = true
@@ -33,7 +33,7 @@ console.log(!!undefined)
 console.log(!!(isActive = false))
 console.log('-----------------------------')
 
-/* Logical sentence what return TRUE ngativated two times is true */
+/* Logical sentence what return TRUE negatives two times is true */
 console.log('if one value is true into a multiple "OR" the sentence is True')
 console.log(!!('' || null || 0 || 'opa' || 123))
 console.log('-----------------------------')
